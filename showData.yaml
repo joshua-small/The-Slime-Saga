@@ -1,0 +1,142 @@
+﻿Factions:
+  - name: The Order of the Shard
+    aliases:
+      - The High Council
+      - The Order
+      - The Council
+      - The Councilmen
+  - name: The Porkwatch
+    motto:
+      latin: Omnes Ad Porcos
+      english: All to the Pigs
+  - name: The Slimeguard
+Characters:
+  - name: Ormid
+    aliases:
+      - High Councilman
+    filter: Bearded by TheBeardedChap
+    faction: The Order of the Shard
+    birthplace: The Slime Realm
+    realm: The Realm of Light
+  - name: Tyrrill
+    faction: The Order of the Shard
+    filter: handsome beard
+    realm: The Realm of Light
+  - name: Braythwaite
+    aliases:
+      - Light-Bringer
+      - The Scythe of Tharnak
+    faction: The Order of the Shard
+    filter: Aged Filter
+    realm: The Realm of Light
+  - name: Slime Lord
+    aliases:
+      - The Lord of the Slime
+    faction: The Order of the Shard
+    filter: Eye Distance
+    realm: The Slime Realm
+  - name: Gorlock
+    aliases:
+      - The Shadow Lord
+      - The Dark Lord
+    filter: BigEyesDog
+    realm: The Shadow Realm
+  - name: ""
+    description: Prior owner of the Snail Farm, father of the suspected member of the Porkwatch that helped the Slimeguard escape.
+  - name: ""
+    description: New Snail Farmer.
+    filter: Eye Distance
+  - name: ""
+    aliases:
+      - Doctor
+  - name: Mr. Johnson
+    filter: Eye Distance
+  - name: John Jacob Jingleheimer Schmidt
+    filter: Eye Distance
+  - name: John Jacob Jingleheimer Schmidt
+    alignment: good
+  - name: ""
+    description: Gamer.
+  - name: Bae
+    description: Female blonde Mii.
+  - name: Captain Falcon
+  - name: Mii Gunner
+    filter: Eye Distance
+  - name:
+    aliases:
+      - Blade-keeper
+  - name: Thorranbarth
+    filter: Bigode Mustache
+    faction: The Porkwatch
+  - name: ""
+    aliases:
+      - Captain
+    filter: long beard
+    faction: The Porkwatch
+  - name: Plaraxar
+    species:
+      name: Dragon
+      type: Great
+    legend: Plaraxar's Claw
+  - name: Elgnar
+    aliases:
+      - King Elgnar
+      - His Majesty
+  - name: Maywynn
+Places:
+  - name: The Realm of Light
+    aliases:
+      - The Realm
+      - The Kingdom
+      - The City
+  - name: The Shadow Gate
+  - name: The Shadow Realm
+  - name: The Slime Gate
+  - name: The Slime Realm
+  - name: The Darkwoods
+  - name: The Porkhold
+  - name: The Porkives
+  - name: Porkfort
+  - name: Borgan's Tower
+  - name: The Temple of the Shard
+    aliases:
+      - The Temple
+  - name: The Shrine of the Shard
+  - name: The Outer Rim
+  - name: The Deadlands
+  - name: The Cave of the Great Dragon Plaraxar
+Objects:
+  - name: The Nether-Games
+      items:
+        - name: The Shadow Stone
+        - name: The Heart of Asloendrath
+        - name: The Eye of Zaranthril
+  - name: The Crown of Elgnar
+  - name: The Blade
+  - name: The Slime™
+  - name: The Pork™
+  - name: The Accords
+Events:
+  - name: The Battle of a Thousand Jeremys
+  - name: The Slime War
+Quotes:
+  - quote: The Shard demands of us understanding.
+    character: Braythwaite
+  - quote: The Shard demands understanding. But it also demands peace.
+    character: Ormid
+  - quote: You chose this cell the day you chose to turn the Jeremys against the King.
+    character: Braythwaite
+  - quote: The deepest lines on my body are not from age. They are scars.
+    character: Braythwaite
+  - quote: Ill' not rely on my boots for this journey.
+    character: Braythwaite
+  - quote: Time is ticking as the Slime™ is thickening.
+    character: Braythwaite
+  - quote: The Slime Gate cannot be closed without the talisman. And last I checked, it resides within the Shadow Realm.
+    character: Slime Lord
+  - quote: By Plaraxar's Claw!
+    character: Braythwaite
+  - quote: Omnes Ad Porcos.
+    character: Thorranbarth
+  - quote: You forfeited your seat the moment you refused to sign the Accords.
+    character: Ormid
