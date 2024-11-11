@@ -1,0 +1,61 @@
+1
+00:00:00,440 --> 00:00:02,880
+I am Dranathar Moonblade
+
+2
+00:00:02,881 --> 00:00:04,620
+Son of Guragnar
+
+3
+00:00:04,640 --> 00:00:07,020
+Heir to the Throne of Grimhelm
+
+4
+00:00:07,560 --> 00:00:09,800
+I am Zolandrid Silveroak
+
+5
+00:00:09,801 --> 00:00:11,480
+Son of Balandrir
+
+6
+00:00:11,481 --> 00:00:14,020
+Commander of the Army of Shadowleaf
+
+7
+00:00:14,520 --> 00:00:17,160
+I am Brindiplonkus Mousecrisp
+
+8
+00:00:17,161 --> 00:00:19,340
+Son of Bibliobendobib
+
+9
+00:00:19,360 --> 00:00:21,620
+Captain of the Porkwatch
+
+10
+00:00:22,120 --> 00:00:24,520
+I am Smingapippi Breadballs
+
+11
+00:00:24,521 --> 00:00:25,932
+Son of Quibb
+
+12
+00:00:25,933 --> 00:00:29,519
+First Oboist of the Cornwood Hollow Youth Orchestra
+
+13
+00:00:30,040 --> 00:00:32,280
+I am Pippibingus Brownwater
+
+14
+00:00:32,281 --> 00:00:33,860
+Son of Bimbim
+
+15
+00:00:33,960 --> 00:00:36,885
+Curator of the Museum of
+Damp Orbs
+

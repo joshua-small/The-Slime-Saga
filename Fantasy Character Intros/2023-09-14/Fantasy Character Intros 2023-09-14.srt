@@ -1,0 +1,68 @@
+1
+00:00:00,560 --> 00:00:03,180
+I am Klarmandrik Mossraven
+
+2
+00:00:00,560 --> 00:00:03,180
+I am Klarmandrik Mossraven
+
+3
+00:00:03,360 --> 00:00:04,820
+you have my axe
+
+4
+00:00:05,400 --> 00:00:07,620
+I am Joranathon Thornblood
+
+5
+00:00:08,040 --> 00:00:09,420
+you have my blade
+
+6
+00:00:09,880 --> 00:00:12,060
+I am Vortebel Graveheart
+
+7
+00:00:12,240 --> 00:00:13,700
+you have my hammer
+
+8
+00:00:14,440 --> 00:00:16,740
+I am Thorandis Wolfpenus
+
+9
+00:00:16,800 --> 00:00:18,740
+you have my bag of rocks
+
+10
+00:00:19,120 --> 00:00:21,500
+I am Grunduplunk Wormnugget
+
+11
+00:00:21,600 --> 00:00:24,060
+you have my turnip tied to a rope
+
+12
+00:00:24,200 --> 00:00:26,720
+I am Dribbapindus Horsecorn
+
+13
+00:00:26,721 --> 00:00:29,180
+you have my handful of loose shrapnel
+
+14
+00:00:29,560 --> 00:00:32,060
+I am Eggnut Thunderbarf
+
+15
+00:00:32,080 --> 00:00:34,900
+you have my old pumpkin filled with wasps
+
+16
+00:00:35,240 --> 00:00:37,820
+I am Jerbinkus Cheesetickle
+
+17
+00:00:37,840 --> 00:00:40,289
+you have my ladle full of fairly warm soup
+

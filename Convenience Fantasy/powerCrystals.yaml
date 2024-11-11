@@ -1,0 +1,13 @@
+﻿- name: Robanduthrix Crystal
+  power: Draw power from the Shadow Realm
+- name: Jewel of Grendulem
+  power: Travel between realms, including the Shadow Realm
+- name: Bibbulin Crystal
+  power: Access the power of any adjacent realm remotely
+- name: Eye of Krizzenthus
+  power: Wield multiple Power Crystals at the same time
+  origin: Shadow Realm
+- name: Jewel of Snabe
+  power: Cast a projection of any Power Crystal
+- name: Rendubreeb's Ruby
+  power: Wipe the memory of an interaction
