@@ -1,0 +1,19 @@
+---
+
+- name: Thragnor Wolfwood
+  parent: Sliggnarth Wolfwood
+  epithets:
+    - Elder Councilman of the Brotherhood of the Axe
+- name: Turanlar Moonblood
+  clan: Moonblood
+  epithets:
+    - Wielder of the Blade of Sloragnon
+    - Guardian of the Shadow Gate
+- name: Alan Richards
+  parent: George Richards
+  epithets:
+    - Keeper of the Guardian of the gate at Richards and Sons Towing
+- name: Aknuthrixx Wormslave
+  epithets:
+    - Heir to the Throne of Mosshaven
+    - The Last Knight

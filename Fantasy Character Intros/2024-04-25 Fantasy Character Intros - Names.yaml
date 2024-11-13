@@ -1,0 +1,23 @@
+---
+
+- name: Zarathnor Thunderbone
+  parent: Zarthanagan Thunderbone
+  epithets:
+    - Guardian of the Heap
+- name: Drendinark Monkeythump
+  parent: Ripnart Monkeythump
+  epithets:
+    - Keeper of the Slime
+- name: Vargitarth Slugbeard
+  parent: Chiginibrik Slugbeard
+  epithets:
+    - Defender of the Jeremy
+- name: Zubanidar Creamstar
+  parent: Zudinibar Creamstar
+  epithets:
+    - Commander of the Frog Legion
+- name: Spizz Dinglemittens
+  parent: Rundulopangorus Dinglemittens-Vasquez
+  epithets:
+    - Heir to the Throne of Wizzhaven
+    - Keeper of the Slime

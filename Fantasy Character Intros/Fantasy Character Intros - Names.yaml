@@ -1,0 +1,179 @@
+
+- name: Thragnor Wolfwood
+  parent: Sliggnarth Wolfwood
+  epithets:
+    - Elder Councilman of the Brotherhood of the Axe
+- name: Turanlar Moonblood
+  clan: Moonblood
+  epithets:
+    - Wielder of the Blade of Sloragnon
+    - Guardian of the Shadow Gate
+- name: Alan Richards
+  parent: George Richards
+  epithets:
+    - Keeper of the Guardian of the gate at Richards and Sons Towing
+- name: Aknuthrixx Wormslave
+  epithets:
+    - Heir to the Throne of Mosshaven
+    - The Last Knight
+- name: Klarmandrik Mossraven
+  item: Axe
+- name: Joranathon Thornblood
+  item: Blade
+- name: Vortebel Graveheart
+  item: Hammer
+- name: Thorandis Wolfpenus
+  item: Bag of Rocks
+- name: Grunduplunk Wormnugget
+  item: Turnip Tied to a Rope
+- name: Dribbapindus Horsecorn
+  item: Handful of Loose Shrapnel
+- name: Eggnut Thunderbarf
+  item: Old Pumpkin Filled with Wasps
+- name: Jerbinkus Cheesetickle
+  item: Ladle Full of Fairly Warm Soup
+- name: Gurandrir Shivertooth
+  item: Sword
+- name: Fluntwraith Snakefist
+  item: Stapler
+- name: Zithnart Clambucket
+  item: Protractor
+- name: Grimholbus Birdpocket
+  item: Yellow Highlighter with a Black Smudge on the End
+- name: Jindersploint Wormwiggle
+  item: Graphing Calculator
+- name: Pliznuendrith Crabslapper
+  item: Binder Clips
+- name: Dranathar Moonblade
+  parent: Guragnar
+  epithets:
+    - Heir to the Throne of Grimhelm
+- name: Zolandrid Silveroak
+  parent: Balandrir
+  epithets:
+    - Commander of the Army of Shadowleaf
+- name: Brindiplonkus Mousecrisp
+  parent: Bibliobendobib
+  epithets:
+    - Captain of the Porkwatch
+- name: Smingapippi Breadballs
+  parent: Quibb
+  epithets:
+    - First Oboist of the Cornwood Hollow Youth Orchestra
+- name: Pippibingus Brownwater
+  parent: Bimbim
+  epithets:
+    - Curator of the Museum of Damp Orbs
+- name: Gorgax Doomcleft
+  item: Nether Sword
+- name: Horsenut Winterfudge
+  item: "Land Before Time" Pencil Topper
+- name: Trombonius Trumpeterius
+  item: Lightly-Used Guitar Pick
+- name: Pangolax Twelvebeard
+  item: Season 3 of "Alf" on DVD
+- name: Vibbangus Pizzlewisp
+  item: Pretty Cool Magnet
+- name: Dorvanithrex Shiverglade
+  item: Sword
+- name: Rohimbus Ponstiquank
+  item: Tupperware Stained with Tomato Sauce
+- name: Spizz Grimblenuts
+  item: Twine
+- name: Chippiwinkus Binksnarf
+  item: "Ross's Dress For Less" Gift Card with Fourteen Dollars and Ninety Seven Cents Remaining
+- name: Pingabeeple Bingapeeple
+  item: Curious Birds
+- name: Bibblondopraxivarth Funtch
+  item: Jazz Mouse
+- name: Hunka Nuggets
+  item: Handsome Cabbage
+- name: Zankar Shadowmoon
+  item: Sword
+- name: Dabeebel Kabeebel
+  item: Dagger of the Underbeast
+- name: Thorganald Wizzberry
+  item: Bag of Assorted Teeth
+- name: Diagonus Hypotenork
+  item: Dragon Nuggets
+- name: Slardanagrath Flenk
+  item: Ointment of Uncertain Origin
+- name: Barfigan Chunderthrust
+  item: Pocket Full of Loose Acorns
+- name: Jarensendulep Mordusplent
+  item: "Kirby's Air Rider" Fanfiction
+- name: Winky Peepins
+  item: Cool Stick
+- name: Korganax Dreadspore
+  item: Shield
+- name: Cryptopher Sarcophagon
+  item: Worm Ladder
+- name: Pindlepork Gruntelsnout
+  item: Orbs of Increasing Roughness
+- name: Bonegravius Nutslap
+  item: Battlebeans
+- name: Jindorfeeple Dindlecrickets
+  item: "Aunt Bully" DVD
+- name: Gorlangus Tenderknuckles
+  item: "Asterix and Obelix" Pencil Case
+- name: Binkus Beepinbuttons
+  item: Bubble Wand
+- name: Zarathnor Thunderbone
+  parent: Zarthanagan Thunderbone
+  epithets:
+    - Guardian of the Heap
+- name: Drendinark Monkeythump
+  parent: Ripnart Monkeythump
+  epithets:
+    - Keeper of the Slime
+- name: Vargitarth Slugbeard
+  parent: Chiginibrik Slugbeard
+  epithets:
+    - Defender of the Jeremy
+- name: Zubanidar Creamstar
+  parent: Zudinibar Creamstar
+  epithets:
+    - Commander of the Frog Legion
+- name: Spizz Dinglemittens
+  parent: Rundulopangorus Dinglemittens-Vasquez
+  epithets:
+    - Heir to the Throne of Wizzhaven
+    - Keeper of the Slime
+- name: Darkhart Wolfcrunch
+  item: Wonderblade
+- name: Vorasmus Darkpeen
+  item: Blood Whistle
+- name: Terripippis Moonballs
+  item: Gentle Slope
+- name: Rungus Bibbovungus
+  item: Clarinet Full of Bees
+- name: Quardoplex Fnunff
+  item: Sword of Perpetual Interest
+- name: Concavious Convexwell
+  item: "Aaahh!!! Real Monsters" Floor Puzzle
+- name: Drimp Squimbus
+  item: Mouthful of Apricot Preserves
+- name: Frosteline Winterchest
+  item: Shiverblade
+- name: Jaykup Beefballoons
+  item: Talisman of the Howling Snail
+- name: Gazonga Honeyjuggs
+  item: Horse Amulet
+- name: Breastina Evercleave
+  item: Scroll of Approachable Birds
+- name: Jiggolyne Wonderboob
+  item: Cubes of Disperate Roughness
+- name: Elizabreast Thunderbust
+  item: Dress with Pockets
+- name: Mckinsleighabeth Isabellavyn
+  item: Sword
+- name: Tittyana Milkensqueeze
+  item: Protruding Underwire
+- name: Chesterella Thundercans
+  item: 47th Generation "Sims 3" Family
+- name: Boobalina Honkretwist
+  item: Clump of Hair Stuck to the Shower Wall
+- name: Agatha Sweetmelons
+  item: Cup of Tea that I've Microwaved Six Times Today
+- name: Vajennifer Meatmissiles
+  item: Fries that You Ordered for Yourself
